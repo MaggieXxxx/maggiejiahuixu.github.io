@@ -1,5 +1,10 @@
 title: Jiahui (Maggie) Xu
-logo: /assets/img/round_profile.png
+logo: assets/img/round_profile.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
+
+include:
+  - assets/css/style.scss
