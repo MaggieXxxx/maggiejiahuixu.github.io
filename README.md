@@ -1,3 +1,10 @@
+<div style="text-align: center; margin-top: 1rem;">
+  <p>
+    <a href="https://github.com/maggiexu" target="_blank">GitHub</a> &nbsp;|&nbsp;
+    <a href="https://linkedin.com/in/jiahui-maggie-xu" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+    <a href="https://medium.com/@maggiexu" target="_blank">Medium Blog</a>
+  </p>
+</div>
 # Jiahui (Maggie) Xu — Data Scientist Portfolio
 
 ![Maggie Xu Banner](https://github.com/yourusername/yourrepo/assets/banner.png) <!-- Optional banner image -->
@@ -72,12 +79,3 @@ Developed and validated machine learning models to predict borrower default prob
 ---
 
 > _“Curious mind. Data-driven decisions. Human-centered impact.”_
-<!-- Contact info centered below circular profile photo -->
-<div style="text-align: center; margin-top: 1rem;">
-  <img src="assets/img/round_profile.png" alt="Maggie Xu" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 2px solid #ccc;" />
-  
-  <p style="margin-top: 1rem;">
-    <a href="https://github.com/MaggieXxxx" target="_blank">GitHub</a> |
-    <a href="https://www.linkedin.com/in/maggie-xu-65394617a/" target="_blank">LinkedIn</a> |
-  </p>
-</div>
