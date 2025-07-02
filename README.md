@@ -1,10 +1,3 @@
-<div style="text-align: center; margin-top: 1rem;">
-  <p>
-    <a href="https://github.com/maggiexu" target="_blank">GitHub</a> &nbsp;|&nbsp;
-    <a href="https://linkedin.com/in/jiahui-maggie-xu" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
-    <a href="https://medium.com/@maggiexu" target="_blank">Medium Blog</a>
-  </p>
-</div>
 # Jiahui (Maggie) Xu — Data Scientist Portfolio
 
 ![Maggie Xu Banner](https://github.com/yourusername/yourrepo/assets/banner.png) <!-- Optional banner image -->
