@@ -1,6 +1,6 @@
 # Jiahui (Maggie) Xu — Data Scientist Portfolio
 
-![Maggie Xu Banner](https://github.com/yourusername/yourrepo/assets/banner.png) <!-- Optional banner image -->
+![Maggie Xu Banner](assets/banner.png) <!-- Optional banner image -->
 
 ## 🔧 Technical Skills  
 **Languages & Libraries:** Python, SQL, R, Spark, Polars, scikit-learn, XGBoost, NLP, StatsModels, Dask  
