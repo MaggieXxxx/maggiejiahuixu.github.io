@@ -1,11 +1,9 @@
-<p align="center" style="background-color: rgba(141,146,129, 0.4); padding: 10px; border-radius: 6px;">
-  <strong>
-    <a href="#-about-me">About</a> &nbsp;|&nbsp;
-    <a href="#-selected-projects">Projects</a> &nbsp;|&nbsp;
-    <a href="#-technical-skills">Skills</a> &nbsp;|&nbsp;
-    <a href="#-contact">Contact</a>
-  </strong>
-</p>
+<div align="center" style="background-color: rgba(141,146,129, 0.5); padding: 10px; border-radius: 6px;">
+  <a href="#-about-me" style="color: white;">About</a> &nbsp;|&nbsp;
+  <a href="#-selected-projects" style="color: white;">Projects</a> &nbsp;|&nbsp;
+  <a href="#-technical-skills" style="color: white;">Skills</a> &nbsp;|&nbsp;
+  <a href="#-contact" style="color: white;">Contact</a>
+</div>
 
 <hr>
 ![Maggie Xu Banner](https://maggiexxxx.github.io/maggiejiahuixu.github.io/assets/banner.png) <!-- Optional banner image -->
