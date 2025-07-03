@@ -1,4 +1,4 @@
-<p align="center" style="background-color: rgb(141,146,129); padding: 10px; border-radius: 6px;">
+<p align="center" style="background-color: rgba(141,146,129, 0.4); padding: 10px; border-radius: 6px;">
   <strong>
     <a href="#about-me">About</a> &nbsp;|&nbsp;
     <a href="#selected-projects">Projects</a> &nbsp;|&nbsp;
