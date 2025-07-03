@@ -1,9 +1,9 @@
 <p align="center" style="background-color: rgba(141,146,129, 0.4); padding: 10px; border-radius: 6px;">
   <strong>
-    <a href="#about-me">About</a> &nbsp;|&nbsp;
-    <a href="#selected-projects">Projects</a> &nbsp;|&nbsp;
-    <a href="#technical-skills">Skills</a> &nbsp;|&nbsp;
-    <a href="#contact">Contact</a>
+    <a href="#-about-me">About</a> &nbsp;|&nbsp;
+    <a href="#-selected-projects">Projects</a> &nbsp;|&nbsp;
+    <a href="#-technical-skills">Skills</a> &nbsp;|&nbsp;
+    <a href="#-contact">Contact</a>
   </strong>
 </p>
 
@@ -77,21 +77,6 @@ Designed a custom multi-station reinforcement learning environment using **PPO**
 
 > **Tech Stack:** Python, gymnasium, Pandas, Matplotlib, Stable-Baselines3  
 > _Focus: RL reward design, multi-agent training, system simulation_
-
----
-
-## 🎤 Talks & Writing
-
-- **"AI for Loan Underwriting"** – NYU MSDS Capstone Proposal, Spring 2025  
-- **Blog** – [Medium.com/@maggiexu](https://medium.com/@maggiexu):  
-  Articles on fraud detection, reinforcement learning, and pipeline automation
-
----
-
-## 📚 Publications (In Progress)
-
-- _Emergent Communication in Multi-Agent RL_ — Position Paper (2025)  
-- _Generative AI for Financial Code Synthesis_ — Collaborative Research (Drafting)
 
 ---
 
