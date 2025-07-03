@@ -1,6 +1,25 @@
-# Jiahui (Maggie) Xu — Data Scientist Portfolio
+<p align="center">
+  <strong>
+    <a href="#about-me">About</a> &nbsp;|&nbsp;
+    <a href="#selected-projects">Projects</a> &nbsp;|&nbsp;
+    <a href="#technical-skills">Skills</a> &nbsp;|&nbsp;
+    <a href="#contact">Contact</a>
+  </strong>
+</p>
 
+<hr>
 ![Maggie Xu Banner](https://maggiexxxx.github.io/maggiejiahuixu.github.io/assets/banner.png) <!-- Optional banner image -->
+## 👩🏻‍💻 About Me
+
+## 👩🏻‍💻 About Me
+
+Hi! I'm **Jiahui (Maggie) Xu**, a data scientist with a background in economics and advanced training in data science from NYU. My work lies at the intersection of machine learning, statistical modeling, and real-world impact. I bring a multidisciplinary lens to data problems, blending technical fluency in Python, SQL, and Spark with business insight gained from my training and experience across industries. I've built scalable data pipelines, trained interpretable machine learning models, and deployed solutions that support operational decisions.
+
+Outside of modeling and coding, I enjoy life's simpler joys — watching movies, taking walks in the park, grocery shopping, cooking, painting, and crocheting. These creative and reflective moments fuel my curiosity and balance the analytical side of my work.
+
+📍 Based in NYC | 🌐 Open to collaboration | 💬 Let’s connect!
+
+---
 
 ## 🔧 Technical Skills  
 **Languages & Libraries:** Python, SQL, R, Spark, Polars, scikit-learn, XGBoost, NLP, StatsModels, Dask  
@@ -77,7 +96,7 @@ Designed a custom multi-station reinforcement learning environment using **PPO**
 
 ---
 
-## 🔗 Portfolio & Contact
+## 🔗 Contact
 
 - **GitHub:** [github.com/maggiexu](https://github.com/maggiexu)  
 - **LinkedIn:** [linkedin.com/in/jiahui-maggie-xu](https://linkedin.com/in/jiahui-maggie-xu)  
