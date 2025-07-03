@@ -20,6 +20,17 @@ Outside of modeling and coding, I enjoy life's simpler joys — watching movies,
 
 ## 🔧 Technical Skills  
 **Languages & Libraries:** Python, SQL, R, Spark, Polars, scikit-learn, XGBoost, NLP, StatsModels, Dask  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-0C1E35?style=for-the-badge&logo=data&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-E44C2A?style=for-the-badge&logo=python&logoColor=white)
+![StatsModels](https://img.shields.io/badge/-StatsModels-4682B4?style=for-the-badge&logo=python&logoColor=white)
+![Dask](https://img.shields.io/badge/-Dask-050A30?style=for-the-badge&logo=dask&logoColor=white)
+
+---
 **Tools & Platforms:** Databricks, AWS, Anaconda, Tableau, Power BI  
 **Specialties:** Reinforcement Learning, Predictive Modeling, Risk Scoring, Recommender Systems, NLP  
 
