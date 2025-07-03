@@ -18,6 +18,40 @@
 
 ## 📊 Selected Projects
 
+---
+
+### 🏦 Probability of Default Modeling for Banca Massiccia  
+
+Developed and validated machine learning models to predict borrower default probability using real-world financial and loan data.  
+- Applied XGBoost with VIF/skewness correction and walk-forward testing  
+- Delivered interactive dashboards and proposed a new underwriting strategy  
+- Leveraged clustering and calibration to improve predictions in sparse default events
+
+**Tech Stack:** `Python`, `statsmodels`, `XGBoost`, `Power BI`  
+*Focus: Credit scoring, economic modeling, explainability*
+
+![Loan Default Project Preview](/assets/img/pd_overview.png)
+
+👉 [View GitHub Repo](https://github.com/MaggieXxxx/Probability-of-Default-Analysis)
+
+---
+
+### 💬 Mental Health Plan Recommendation System
+
+Built a web app that recommends personalized mental health subscription plans based on user demographics and symptoms.  
+- Trained a Random Forest model on subgroup-based data  
+- Designed a Flask app where users input age, gender, state, and symptoms to get personalized plan predictions  
+- Applied classification and decision logic to make the model interpretable and actionable
+
+**Tech Stack:** `Python`, `scikit-learn`, `Flask`, `pandas`  
+*Focus: Healthcare personalization, model serving, user input integration*
+
+![Mental Health Project Preview](/assets/img/mh_overview.png)
+
+👉 [View GitHub Repo](https://github.com/MaggieXxxx/DB-FinalProject)
+
+---
+
 ### 🛴 Citi Bike Rebalancing with Reinforcement Learning  
 Designed a custom multi-station reinforcement learning environment using **PPO** to optimize stock redistribution in NYC’s Citi Bike system.  
 - Simulated hourly net flow and trained models using stable-baselines3  
@@ -25,26 +59,6 @@ Designed a custom multi-station reinforcement learning environment using **PPO**
 
 > **Tech Stack:** Python, gymnasium, Pandas, Matplotlib, Stable-Baselines3  
 > _Focus: RL reward design, multi-agent training, system simulation_
-
----
-
-### 💊 Reimbursement Code Discovery using NLP  
-Built an NLP pipeline for identifying billable procedures from free-text medical notes to assist HealthTech startups with CPT/ICD coding.  
-- Used transformer-based models fine-tuned on annotated insurance claims  
-- Mapped medical terminology to billing ontology  
-
-> **Tech Stack:** Python, spaCy, HuggingFace, scikit-learn  
-> _Focus: Clinical NLP, text classification, healthcare data science_
-
----
-
-### 🏦 Probability of Default Modeling for Banca Massiccia  
-Developed and validated machine learning models to predict borrower default probability.  
-- Applied XGBoost with VIF/skewness correction and walk-forward testing  
-- Delivered interactive dashboards and proposed new underwriting logic  
-
-> **Tech Stack:** Python, statsmodels, XGBoost, Power BI  
-> _Focus: Credit scoring, economic modeling, explainability_
 
 ---
 
