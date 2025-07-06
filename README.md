@@ -123,9 +123,8 @@ Designed a custom multi-station reinforcement learning environment using **PPO**
 
 ## 🔗 Contact
 
-- **GitHub:** [github.com/maggiexu](https://github.com/maggiexu)  
-- **LinkedIn:** [linkedin.com/in/jiahui-maggie-xu](https://linkedin.com/in/jiahui-maggie-xu)  
-- **Medium Blog:** [medium.com/@maggiexu](https://medium.com/@maggiexu)
+- **GitHub:** [github.com/maggiexu](https://maggiexxxx.github.io)  
+- **LinkedIn:** [linkedin.com/in/jiahui-maggie-xu](https://www.linkedin.com/in/maggie-xu-65394617a/)  
 
 ---
 
