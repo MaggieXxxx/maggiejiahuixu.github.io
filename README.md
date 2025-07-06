@@ -113,7 +113,7 @@ Built a web app that recommends personalized mental health subscription plans ba
 
 ### 💢 Emotion Detection from Plain Text
 
-[![Emotion Detection Poster](/assets/img/poster1003.png)](/assets/posters/poster1003.pdf)
+[![Emotion Detection Poster](/assets/img/poster1003.png)](assets/posters/poster1003.pdf)
 
 > A BERT-based approach for multi-class emotion classification from tweets.  
 > Presented for DS-GA 1003: Machine Learning, NYU.
