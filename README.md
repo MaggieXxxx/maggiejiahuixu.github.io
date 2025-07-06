@@ -135,6 +135,19 @@ Built a web app that recommends personalized mental health subscription plans ba
 
 ---
 
+### 📊 The Job Explorer: A $alary Analysis
+
+[![Bambi Salary Project Slide Preview](/assets/img/salary_analysis_table.png)](assets/posters/salary_analysis_project.pdf)
+
+> Group project analyzing global salary distributions by gender, race, and region, with ML models to predict compensation.  
+> Includes hypothesis testing, equity analysis, and model deployment using Random Forest and Linear Regression.  
+> _Built for DS-GA 1002: Statistics and ML for Data Science, NYU._
+
+**Tech Stack:** Python, pandas, seaborn, scikit-learn, Random Forest, Linear Regression  
+*_Focus: Fair Pay Analysis, Salary Modeling, Statistical Inference, ML Interpretability_*
+
+---
+
 ### 🚴 Citi Bike Rebalancing with Reinforcement Learning  
 Designed a custom multi-station reinforcement learning environment using **PPO** to optimize stock redistribution in NYC’s Citi Bike system.  
 - Simulated hourly net flow and trained models using stable-baselines3  
