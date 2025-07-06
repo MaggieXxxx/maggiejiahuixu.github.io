@@ -1,4 +1,4 @@
-<div align="center" style="background-color: rgba(141,146,129, 0.5); padding: 10px; border-radius: 6px;">
+<div style="position: sticky; top: 0; z-index: 999; background-color: rgba(141,146,129, 0.5); padding: 10px; text-align: center; border-radius: 0 0 6px 6px;">
   <a href="#-about-me" style="color: white;">About</a> &nbsp;|&nbsp;
   <a href="#-selected-projects" style="color: white;">Projects</a> &nbsp;|&nbsp;
   <a href="#-technical-skills" style="color: white;">Skills</a> &nbsp;|&nbsp;
