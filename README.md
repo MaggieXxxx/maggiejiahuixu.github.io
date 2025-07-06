@@ -87,7 +87,7 @@ Developed and validated machine learning models to predict borrower default prob
 - Leveraged clustering and calibration to improve predictions in sparse default events
 
 **Tech Stack:** `Python`, `statsmodels`, `XGBoost`, `Power BI`  
-*Focus: Credit scoring, economic modeling, explainability*
+**Focus:** Credit scoring, economic modeling, explainability
 
 ![Loan Default Project Preview](/assets/img/pd_overview.png)
 
@@ -103,7 +103,7 @@ Built a web app that recommends personalized mental health subscription plans ba
 - Applied classification and decision logic to make the model interpretable and actionable
 
 **Tech Stack:** `Python`, `scikit-learn`, `Flask`, `pandas`  
-*Focus: Healthcare personalization, model serving, user input integration*
+**Focus:** Healthcare personalization, model serving, user input integration
 
 ![Mental Health Project Preview](/assets/img/mh_overview.png)
 
@@ -119,7 +119,8 @@ Built a web app that recommends personalized mental health subscription plans ba
 > Presented for DS-GA 1003: Machine Learning, NYU.
 
 **Tech Stack:** Python, HuggingFace Transformers, PyTorch, BERT, Pandas, scikit-learn
-*_Focus: Natural Language Processing, Multi-class Classification, Emotional Signal Detection_*
+
+**Focus:** Natural Language Processing, Multi-class Classification, Emotional Signal Detection
 
 ---
 
@@ -131,7 +132,8 @@ Built a web app that recommends personalized mental health subscription plans ba
 > Presented for DS-GA 1006: Capstone, NYU.
 
 **Tech Stack:** Python, PyTorch, EGG (Emergent Language Library), Matplotlib, NumPy
-*_Focus: Multi-Agent Communication, Representation Learning, Language Emergence_*
+
+**Focus:** Multi-Agent Communication, Representation Learning, Language Emergence
 
 ---
 
@@ -144,7 +146,8 @@ Built a web app that recommends personalized mental health subscription plans ba
 > _Built for DS-GA 1002: Statistics and ML for Data Science, NYU._
 
 **Tech Stack:** Python, pandas, seaborn, scikit-learn, Random Forest, Linear Regression  
-*_Focus: Fair Pay Analysis, Salary Modeling, Statistical Inference, ML Interpretability_*
+
+**Focus:** Fair Pay Analysis, Salary Modeling, Statistical Inference, ML Interpretability
 
 ---
 
@@ -154,7 +157,7 @@ Designed a custom multi-station reinforcement learning environment using **PPO**
 - Developed demand-aware reward function and logging callbacks  
 
 **Tech Stack:** Python, gymnasium, Pandas, Matplotlib, Stable-Baselines3  
-*_Focus: RL reward design, multi-agent training, system simulation_*
+**Focus:** RL reward design, multi-agent training, system simulation
 
 ---
 
