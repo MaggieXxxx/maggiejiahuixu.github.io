@@ -111,35 +111,37 @@ Built a web app that recommends personalized mental health subscription plans ba
 
 ---
 
-### 📍 Emotion Detection from Plain Text
+### 💢 Emotion Detection from Plain Text
 
 [![Emotion Detection Poster](/assets/img/poster1003.png)](/assets/posters/poster1003.pdf)
 
 > A BERT-based approach for multi-class emotion classification from tweets.  
 > Presented for DS-GA 1003: Machine Learning, NYU.
-> **Tech Stack:** Python, HuggingFace Transformers, PyTorch, BERT, Pandas, scikit-learn
-> _Focus: Natural Language Processing, Multi-class Classification, Emotional Signal Detection_
+
+**Tech Stack:** Python, HuggingFace Transformers, PyTorch, BERT, Pandas, scikit-learn
+*_Focus: Natural Language Processing, Multi-class Classification, Emotional Signal Detection_*
 
 ---
 
-### 📍 Emergent Communication Through Deep Learning
+### 🧠 Emergent Communication Through Deep Learning
 
-[![Emergent Communication Poster](/assets/img/poster1006.png)](/assets/posters/poster1006.pdf)
+[![Emergent Communication Poster](/assets/img/poster1006.png)](assets/posters/poster1006.pdf)
 
 > A comparative study using EGG and Metropolis-Hastings Naming Game frameworks to explore symbol emergence in multi-agent communication.  
 > Presented for DS-GA 1006: Capstone, NYU.
-> **Tech Stack:** Python, PyTorch, EGG (Emergent Language Library), Matplotlib, NumPy
-> _Focus: Multi-Agent Communication, Representation Learning, Language Emergence_
+
+**Tech Stack:** Python, PyTorch, EGG (Emergent Language Library), Matplotlib, NumPy
+*_Focus: Multi-Agent Communication, Representation Learning, Language Emergence_*
 
 ---
 
-### 🛴 Citi Bike Rebalancing with Reinforcement Learning  
+### 🚴 Citi Bike Rebalancing with Reinforcement Learning  
 Designed a custom multi-station reinforcement learning environment using **PPO** to optimize stock redistribution in NYC’s Citi Bike system.  
 - Simulated hourly net flow and trained models using stable-baselines3  
 - Developed demand-aware reward function and logging callbacks  
 
-> **Tech Stack:** Python, gymnasium, Pandas, Matplotlib, Stable-Baselines3  
-> _Focus: RL reward design, multi-agent training, system simulation_
+**Tech Stack:** Python, gymnasium, Pandas, Matplotlib, Stable-Baselines3  
+*_Focus: RL reward design, multi-agent training, system simulation_*
 
 ---
 
@@ -147,7 +149,7 @@ Designed a custom multi-station reinforcement learning environment using **PPO**
 
 - **GitHub:** [github.com/maggiexxxx](https://maggiexxxx.github.io)  
 - **LinkedIn:** [linkedin.com/in/maggie-xu](https://www.linkedin.com/in/maggie-xu-65394617a/)
-- - **Email:** [maggiejiahuixu@gmail.com](mailto:maggiejiahuixu@gmail.com)
+- **Email:** [maggiejiahuixu@gmail.com](mailto:maggiejiahuixu@gmail.com)
 
 ---
 
