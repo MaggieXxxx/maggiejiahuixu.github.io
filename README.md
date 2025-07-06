@@ -152,6 +152,9 @@ Built a web app that recommends personalized mental health subscription plans ba
 ---
 
 ### 🚴 Citi Bike Rebalancing with Reinforcement Learning  
+
+[![CitiBike Rebalancing Project Slide Preview](/assets/img/citibike_results.png)](assets/posters/RL_citibike.pdf)
+
 Designed a custom multi-station reinforcement learning environment using **PPO** to optimize stock redistribution in NYC’s Citi Bike system.  
 - Simulated hourly net flow and trained models using stable-baselines3  
 - Developed demand-aware reward function and logging callbacks  
